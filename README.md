@@ -63,3 +63,5 @@ This project contains a Python script that generates a custom PowerShell script 
     ```
 
     The script will create an `output/logs/` directory for detailed logs of each download.
+
+<img width="1083" height="506" alt="image" src="https://github.com/user-attachments/assets/2630cde5-f280-4c10-9319-b06ff6651b03" />
